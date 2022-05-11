@@ -173,7 +173,6 @@ h2  {text-align: center;
     <br>
     <br>
     <h3>How Far I’ll Go</h3>
-    <br>
     <body>
                             <img src="images/Moana/howfarillgo.gif" width="300" height="200"></a>
                             <br>
@@ -200,7 +199,6 @@ h2  {text-align: center;
     <br>
     <br>
     <h3>You’re Welcome</h3>
-    <br>
     <body>
                             <img src="images/Moana/yourewelcome.gif" width="300" height="200"></a>
                             <br>

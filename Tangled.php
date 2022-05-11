@@ -67,7 +67,7 @@ h2  {text-align: center;
 <style type="text/css">
     header{ background-color: #2F4F75;
     }
-    body{ background: linear-gradient(to right, #5C4ECE, #95A2E4);
+    body{ background: linear-gradient(to right, #D66b29, #F7B064);
      }
 
 </style>
@@ -112,13 +112,13 @@ h2  {text-align: center;
 
 <div class="row">
   <div class="column" style="background-color:transparent;">
-    <h3>Frozen Heart</h3>
+    <h3>I See the Light</h3>
     <body>
-                            <img src="images/Frozen/FrozenHeart.gif" width="300" height="200"></a>
+                            <img src="images/Tangled/iseethelight.gif" width="300" height="200"></a>
                             <br>
                             <br>
                             <audio controls> 
-                                <source src= "audio/Frozen/Frozen - Frozen Heart HD.mp3" type="audio/mpeg">
+                                <source src= "audio/Tangled/Mandy Moore, Zachary Levi - I See the Light (From 'Tangled'-Sing-Along).mp3" type="audio/mpeg">
                             </audio>
                         </body>
 
@@ -128,25 +128,25 @@ h2  {text-align: center;
     <br>
     <br>
     <br>
-    <h3>Do You Want to Build a Snowman?</h3>
+    <h3>When Will My Life Begin</h3>
     <body>
-                            <img src="images/Frozen/snowman.gif" width="300" height="200"></a>
+                            <img src="images/Tangled/whenwillmylifebegin.gif" width="300" height="200"></a>
                             <br>
                             <br>
                             <audio controls> 
-                                <source src= "audio/Frozen/Do You Want to Build a Snowman (From 'Frozen'-Sing-Along).mp3" type="audio/mpeg">
+                                <source src= "audio/Tangled/Mandy Moore - When Will My Life Begin (From 'Tangled'-Sing-Along).mp3" type="audio/mpeg">
                             </audio>
                         </body>
 
     </div>
   <div class="column" style="background-color:#transparent;">
-    <h3>For the First Time in Forever</h3>
+    <h3>Mother Knows Best</h3>
     <body>
-                            <img src="images/Frozen/forthefirsttimeinforever.gif" width="300" height="200"></a>
+                            <img src="images/Tangled/motherknowsbest.gif" width="300" height="200"></a>
                             <br>
                             <br>
                             <audio controls> 
-                                <source src= "audio/Frozen/Kristen Bell, Idina Menzel - For the First Time in Forever (From 'Frozen'-Sing-Along).mp3" type="audio/mpeg">
+                                <source src= "audio/Tangled/Donna Murphy - Mother Knows Best (From 'Tangled'-Sing-Along).mp3" type="audio/mpeg">
                             </audio>
                         </body>
 
@@ -156,25 +156,24 @@ h2  {text-align: center;
     <br>
     <br>
     <br>
-    <h3>Love Is an Open Door</h3>
-    <br>
+    <h3>I've Got a Dream</h3>
     <body>
-                            <img src="images/Frozen/loveisanopendoor.gif" width="300" height="200"></a>
+                            <img src="images/Tangled/ivegotadream.gif" width="300" height="200"></a>
                             <br>
                             <br>
                             <audio controls> 
-                                <source src= "audio/Frozen/Kristen Bell, Santino Fontana - Love Is an Open Door (From 'Frozen'-Sing-Along).mp3" type="audio/mpeg">
+                                <source src= "audio/Tangled/Tangled Lyric Video - I've Got A Dream - Sing Along.mp3" type="audio/mpeg">
                             </audio>
                         </body>
   </div>
   <div class="column" style="background-color:#transparent;">
-    <h3>Let It Go</h3>
+    <h3>Healing Incantation</h3>
     <body>
-                            <img src="images/Frozen/Letitgo.gif" width="300" height="200"></a>
+                            <img src="images/Tangled/healingincantation.gif" width="300" height="200"></a>
                             <br>
                             <br>
                             <audio controls> 
-                                <source src= "audio/Frozen/Disney's Frozen 'Let It Go' Sequence Performed by Idina Menzel.mp3" type="audio/mpeg">
+                                <source src= "audio/Tangled/Tangled - Healing Incantation (HD).mp3" type="audio/mpeg">
                             </audio>
                         </body>
     <br>
@@ -183,14 +182,13 @@ h2  {text-align: center;
     <br>
     <br>
     <br>
-    <h3>Vuelie</h3>
-    <br>
+    <h3>Kingdom Dance</h3>
     <body>
-                            <img src="images/Frozen/Vuelie.gif" width="300" height="200"></a>
+                            <img src="images/Tangled/kingdomdance.webp" width="300" height="200"></a>
                             <br>
                             <br>
                             <audio controls> 
-                                <source src= "audio/Frozen/Frozen- Vuelie and Vuelie Reprise (The Great Thaw).mp3" type="audio/mpeg">
+                                <source src= "audio/Tangled/Kingdom dance Tangled (extended, doubled chorus).mp3" type="audio/mpeg">
                             </audio>
                         </body>
 
