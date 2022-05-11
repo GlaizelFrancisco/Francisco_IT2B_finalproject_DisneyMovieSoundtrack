@@ -67,7 +67,7 @@ h2  {text-align: center;
 <style type="text/css">
     header{ background-color: #2F4F75;
     }
-    body{ background: linear-gradient(to right, #CBBBD6, #9A9CC2);;
+    body{ background: linear-gradient(to right, #9A9CC2, #CBBBD6);
      }
 
 </style>
