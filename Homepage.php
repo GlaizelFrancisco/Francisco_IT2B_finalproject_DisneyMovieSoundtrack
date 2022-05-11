@@ -65,7 +65,7 @@ h2  {text-align: center;
 <style type="text/css">
     header{ background-color: #2F4F75;
     }
-    body{ background: linear-gradient(to right, #CBBBD6, #9A9CC2);;
+    body{ background: linear-gradient(to right, #c4a4dc, #444474);
      }
 
 </style>
@@ -112,13 +112,13 @@ h2  {text-align: center;
   <div class="column" style="background-color:transparent;">
     <h3>Disney Movie List</h3>
     <p> <a href= "Encanto.php"
-    style="text-decoration: none; color:blueviolet; font-weight: bold;" >Encanto</a> </p>
-    <p> <a href= "Moana.php"style="text-decoration: none; color:blueviolet; font-weight: bold;">Moana</a> </p>
-    <p> <a href= "Frozen.php"style="text-decoration: none; color:blueviolet; font-weight: bold;">Frozen</a> </p>
-    <p> <a href= "Tangled.php"style="text-decoration: none; color:blueviolet; font-weight: bold;">Tangled</a> </p>
-    <p> <a href= "Tinkerbell.php"style="text-decoration: none; color:blueviolet; font-weight: bold;">Tinker Bell</a> </p>
-    <p> <a href= "Mulan.php"style="text-decoration: none; color:blueviolet; font-weight: bold;">Mulan</a> </p>
-    <p> <a href= "TheHunchback.php"style="text-decoration: none; color:blueviolet; font-weight: bold;">The Hunchback of Notre Dame</a> </p>
+    style="text-decoration: none; color:whitesmoke; font-weight: bold;" >Encanto</a> </p>
+    <p> <a href= "Moana.php"style="text-decoration: none; color:whitesmoke; font-weight: bold;">Moana</a> </p>
+    <p> <a href= "Frozen.php"style="text-decoration: none; color:whitesmoke; font-weight: bold;">Frozen</a> </p>
+    <p> <a href= "Tangled.php"style="text-decoration: none; color:whitesmoke; font-weight: bold;">Tangled</a> </p>
+    <p> <a href= "Tinkerbell.php"style="text-decoration: none; color:whitesmoke; font-weight: bold;">Tinker Bell</a> </p>
+    <p> <a href= "Mulan.php"style="text-decoration: none; color:whitesmoke; font-weight: bold;">Mulan</a> </p>
+    <p> <a href= "TheHunchback.php"style="text-decoration: none; color:whitesmoke; font-weight: bold;">The Hunchback of Notre Dame</a> </p>
     </div>
   <div class="column" style="background-color:#transparent;">
     <h3>Year Released</h3>
