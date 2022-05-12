@@ -23,7 +23,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
 
-                        <li class="nav-item"><a class="nav-link text-white" class="btn btn-primary rounded submit p-3 px-5" href="Quote.php">Synopsis</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" class="btn btn-primary rounded submit p-3 px-5" href="EncantoSynopsis.php">Synopsis</a></li>
                 </div>
             </div>
         </nav>
