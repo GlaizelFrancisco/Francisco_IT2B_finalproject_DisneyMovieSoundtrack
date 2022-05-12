@@ -6,7 +6,7 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         <title>DisneySoundtrack Homepage</title>
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="assets/logo.png" />
 
 
       
@@ -21,7 +21,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
 
-                        <li class="nav-item"><a class="nav-link text-white" class="btn btn-primary rounded submit p-3 px-5" href="Quote.php">Disney Quote Here</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" class="btn btn-primary rounded submit p-3 px-5" href="#">Disney Quote Here</a></li>
                 </div>
             </div>
         </nav>
