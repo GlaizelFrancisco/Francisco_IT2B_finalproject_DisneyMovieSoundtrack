@@ -122,7 +122,7 @@ h3 { text-align: left;
 <div class="row">
   <div class="column" style="background-color:transparent; height: auto;">
     <img src="images/Synopsis/Moana.jpg" style="padding-top: 10px ; padding-left: 10px;" width="500" height="250"></a> 
-    <a href= "https://loklok.com/detail/0/1881"
+    <a href= "https://www.bilibili.tv/en/video/2008277163?bstar_from=bstar-web.search-result.0.0"
     style="text-decoration: none; color:blue; font-weight: bold; font-size: 30px; padding-left:  25px;" >Moana</a>
     
     <h3>Summaries</h3>
@@ -131,7 +131,7 @@ h3 { text-align: left;
      
     echo "<p> Moana Waialiki is a sea voyaging enthusiast and the only daughter of a chief in a long line of navigators. When her island's fishermen can't catch any fish and the crops fail, she learns that the demigod Maui caused the blight by stealing the heart of the goddess, Te Fiti. The only way to heal the island is to persuade Maui to return Te Fiti's heart, so Moana sets off on an epic journey across the Pacific. The film is based on stories from Polynesian mythology.—Anonymous</p>";
 
-    echo "<p> TMoana is a daughter of the chief of her tribe. Coming from a long line of navigators she sets off for a fabled island with the demigod Maui. Along the voyage they battle all which the ocean hides, while learning what the power of persistence and faith can accomplish.</p>";
+    echo "<p> Moana is a daughter of the chief of her tribe. Coming from a long line of navigators she sets off for a fabled island with the demigod Maui. Along the voyage they battle all which the ocean hides, while learning what the power of persistence and faith can accomplish.</p>";
 
     echo "<p> An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master wayfinder. Together, they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.—Jwelch5742</p>";
 
