@@ -50,7 +50,7 @@ h2  {text-align: center;
     font-size: 20px ;
     font-style: italic;
     font-weight: bold ;
-    color: gray;
+    color: black;
 
 }
 
