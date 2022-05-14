@@ -63,7 +63,6 @@ h2  {text-align: center;
 <body>
 <h1>Disney Movie Soundtrack</h1>
 <h2>-Adults are only kids grown up</h2>
-</html>
 <style type="text/css">
     header{ background-color: #2F4F75;
     }
@@ -84,7 +83,7 @@ h2  {text-align: center;
                     <div class="col-lg-12 text-center">
 
 </style>
-<html>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -213,7 +212,6 @@ h2  {text-align: center;
 </div>
 
 </body>
-</html>
 
 
         <?php 

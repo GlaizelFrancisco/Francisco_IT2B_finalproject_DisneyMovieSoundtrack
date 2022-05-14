@@ -70,7 +70,6 @@ h3 { text-align: left;
 <body>
 <h1>Tangled Movie Synopsis</h1>
 <h2>-"Go. Live your dream."</h2>
-</html>
 <style type="text/css">
     header{ background-color: #7e5a6d;
     }
@@ -91,7 +90,6 @@ h3 { text-align: left;
                     <div class="col-lg-12 text-left">
 
 </style>
-<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -199,7 +197,6 @@ h3 { text-align: left;
 </div>
 
 </body>
-</html>
 
 
         <?php 

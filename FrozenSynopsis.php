@@ -276,7 +276,6 @@ h3 { text-align: left;
 </div>
 
 </body>
-</html>
 
 
         <?php 

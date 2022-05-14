@@ -70,7 +70,7 @@ h3 { text-align: left;
 <body>
 <h1>Encanto Movie Synopsis</h1>
 <h2>-"Surrounded By The Exceptional, It's Easy To Feel Unexceptional"</h2>
-</html>
+
 <style type="text/css">
     header{ background-color: #3e4589;
     }
@@ -91,7 +91,7 @@ h3 { text-align: left;
                     <div class="col-lg-12 text-left">
 
 </style>
-<html>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -171,7 +171,6 @@ h3 { text-align: left;
 </div>
 
 </body>
-</html>
 
 
         <?php 

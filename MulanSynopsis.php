@@ -70,7 +70,6 @@ h3 { text-align: left;
 <body>
 <h1>Mulan Movie Synopsis</h1>
 <h2>-“The flower that blooms in adversity is the most rare and beautiful of all.”</h2>
-</html>
 <style type="text/css">
     header{ background-color: #953c4e;
     }
@@ -91,7 +90,6 @@ h3 { text-align: left;
                     <div class="col-lg-12 text-left">
 
 </style>
-<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -191,7 +189,6 @@ h3 { text-align: left;
 </div>
 
 </body>
-</html>
 
 
         <?php 

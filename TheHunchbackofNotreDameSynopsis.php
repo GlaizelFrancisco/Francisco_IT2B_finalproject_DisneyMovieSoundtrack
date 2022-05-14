@@ -70,7 +70,6 @@ h3 { text-align: left;
 <body>
 <h1>The Hunchback of Notre Dame Movie Synopsis</h1>
 <h2>-“A one-eyed man is much more incomplete than a blind man, for he knows what it is that's lacking.”</h2>
-</html>
 <style type="text/css">
     header{ background-color: #eb882c;
     }
@@ -91,7 +90,6 @@ h3 { text-align: left;
                     <div class="col-lg-12 text-left">
 
 </style>
-<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -271,7 +269,6 @@ Taking his words to heart, Esmeralda prays (through song) for God to help all th
 </div>
 
 </body>
-</html>
 
 
         <?php 

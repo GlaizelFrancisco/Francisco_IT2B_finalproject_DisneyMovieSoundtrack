@@ -63,7 +63,6 @@ h2  {text-align: center;
 <body>
 <h1>Disney Movie Soundtrack</h1>
 <h2>-Adults are only kids grown up</h2>
-</html>
 <style type="text/css">
     header{ background-color: #2F4F75;
     }
@@ -197,7 +196,6 @@ h2  {text-align: center;
 </div>
 
 </body>
-</html>
 
 
         <?php 

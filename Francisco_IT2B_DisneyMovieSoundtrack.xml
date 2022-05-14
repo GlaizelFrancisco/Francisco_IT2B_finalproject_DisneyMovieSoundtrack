@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+
+
+<!DOCTYPE Disney-Movie-Soundtrack [
+	<!ELEMENT Disney-Movie-Soundtrack (Disney-Movie-List)>
+	<!ELEMENT Disney-Movie-List (Encanto, Moana, Frozen, Tangled, Tinker-Bell, Mulan,The-Hunchback-of-Notre-Dame)>
+	<!ELEMENT Encanto (Movie-Soundtrack, Encanto-Movie-Synopsis)>
+	<!ELEMENT Movie-Soundtrack (Family-Madrigal, Surface-Pressure, We-Dont-Talk-About-Bruno, What-else-can-I-do, All-of-You, Waiting-on-a-Miracle)>
+	<!ELEMENT Encanto-Movie-Synopsis (Summaries, Synopsis)>
+	<!ELEMENT Moana (Movie-Soundtrack, Moana-Movie-Synopsis)>
+	<!ELEMENT Movie-Soundtrack (Tulou-Tagaloa, Where-You-Are, We-Know-The-Way, An-Innocent-Warrior, How-Far-Ill-Go, Youre-Welcome, Shiny)>
+	<!ELEMENT Moana-Movie-Synopsis (Summaries, Synopsis)>
+	<!ELEMENT Frozen (Movie-Soundtrack, Frozen-Movie-Synopsis)>
+	<!ELEMENT Movie-Soundtrack (Frozen-Heart, For-the-First-Time-in-Forever, Let-it-Go, Do-You-Want-to-Build-a-Snowman, Love-Is-an-Open-Door, Vuelie)>
+	<!ELEMENT Frozen-Movie-Synopsis (Summaries, Synopsis)>
+	<!ELEMENT Tangled (Movie-Soundtrack, Tangled-Movie-Synopsis)>
+	<!ELEMENT Movie-Soundtrack (I-See-The-Light, Mother-Knows-Best, Healing-Incantation, When-Will-My-Life-Begin, Ive-got-a-Dream, Kingdom-Dance)>
+	<!ELEMENT Tangled-Movie-Synopsis (Summaries, Synopsis)>
+	<!ELEMENT Tinker-Bell (Movie-Soundtrack, Tinker-Bell-Movie-Synopsis)>
+	<!ELEMENT Movie-Soundtrack (To-The-Fairies-They-Draw-Near, Be-True, Fly-To-Your-Heart, How-to-Believe, Fly-With-Me,Shine)>
+	<!ELEMENT Tinker-Bell-Movie-Synopsis (Summaries, Synopsis)>
+	<!ELEMENT Mulan (Movie-Soundtrack, Mulan-Movie-Synopsis)>
+	<!ELEMENT Movie-Soundtrack (Honor-To-Us-All, True-To-Your-Heart, A-Girl-Worth-Fighting-For, Ill-Make-a-Man-Out-of-You, Reflection, Loyal-Brave-True)>
+	<!ELEMENT Mulan-Movie-Synopsis (Summaries, Synopsis)>
+	<!ELEMENT The-Hunchback-of-Notre-Dame (Movie-Soundtrack, The-Hunchback-of-Notre-Dame-Movie-Synopsis)>
+	<!ELEMENT Movie-Soundtrack (The-Bells-of-Notre-Dame, God-Help-The-Outcasts, Humiliation, Topsy-Turvy, Out-There, The-Court-of-Miracles)>
+	<!ELEMENT The-Hunchback-of-Notre-Dame-Movie-Synopsis (Summaries, Synopsis)>
+
+
+
+
+
+	<!ELEMENT Disney-Movie-List (#PCDATA)>
+	<!ELEMENT Encanto (#PCDATA)>
+	<!ELEMENT Moana (#PCDATA)>
+	<!ELEMENT Frozen (#PCDATA)>
+	<!ELEMENT Tangled (#PCDATA)>
+	<!ELEMENT Tinker-Bell (#PCDATA)>
+	<!ELEMENT Mulan (#PCDATA)>
+	<!ELEMENT The-Hunchback-of-Notre-Dame (#PCDATA)>
+	<!ELEMENT Movie-Soundtrack (#PCDATA)>
+	<!ELEMENT Encanto-Movie-Synopsis (#PCDATA)>
+	<!ELEMENT Family-Madrigal (#PCDATA)>
+	<!ELEMENT Surface-Pressure (#PCDATA)>
+	<!ELEMENT We-Dont-Talk-About-Bruno (#PCDATA)>
+	<!ELEMENT What-else-can-I-do (#PCDATA)>
+	<!ELEMENT All-of-You (#PCDATA)>
+	<!ELEMENT Waiting-on-a-Miracle (#PCDATA)>
+	<!ELEMENT Summaries (#PCDATA)>
+	<!ELEMENT Synopsis (#PCDATA)>
+	<!ELEMENT Moana-Movie-Synopsis (#PCDATA)>
+	<!ELEMENT Tulou-Tagaloa (#PCDATA)>
+	<!ELEMENT Where-You-Are (#PCDATA)>
+	<!ELEMENT We-Know-The-Way (#PCDATA)>
+	<!ELEMENT An-Innocent-Warrior (#PCDATA)>
+	<!ELEMENT How-Far-Ill-Go (#PCDATA)>
+	<!ELEMENT Youre-Welcome (#PCDATA)>
+	<!ELEMENT Shiny (#PCDATA)>
+	<!ELEMENT Frozen-Movie-Synopsis (#PCDATA)>
+	<!ELEMENT Frozen-Heart (#PCDATA)>
+	<!ELEMENT For-the-First-Time-in-Forever (#PCDATA)>
+	<!ELEMENT Let-it-Go (#PCDATA)>
+	<!ELEMENT Do-You-Want-to-Build-a-Snowman (#PCDATA)>
+	<!ELEMENT Love-Is-an-Open-Door (#PCDATA)>
+	<!ELEMENT Vuelie (#PCDATA)>
+	<!ELEMENT Tangled-Movie-Synopsis (#PCDATA)>
+	<!ELEMENT I-See-The-Light (#PCDATA)>
+	<!ELEMENT Mother-Knows-Best (#PCDATA)>
+	<!ELEMENT Healing-Incantation (#PCDATA)>
+	<!ELEMENT When-Will-My-Life-Begin (#PCDATA)>
+	<!ELEMENT Ive-got-a-Dream (#PCDATA)>
+	<!ELEMENT Kingdom-Dance (#PCDATA)> 
+	<!ELEMENT Tinker-Bell-Movie-Synopsis (#PCDATA)>
+	<!ELEMENT To-The-Fairies-They-Draw-Near (#PCDATA)>
+	<!ELEMENT Be-True (#PCDATA)>
+	<!ELEMENT Fly-To-Your-Heart (#PCDATA)>
+	<!ELEMENT How-to-Believe (#PCDATA)>
+	<!ELEMENT Fly-With-Me (#PCDATA)>
+	<!ELEMENT Shine (#PCDATA)>
+	<!ELEMENT Mulan-Movie-Synopsis (#PCDATA)>
+	<!ELEMENT Honor-To-Us-All (#PCDATA)>
+	<!ELEMENT True-To-Your-Heart (#PCDATA)>
+	<!ELEMENT A-Girl-Worth-Fighting-For (#PCDATA)>
+	<!ELEMENT Ill-Make-a-Man-Out-of-You (#PCDATA)>
+	<!ELEMENT Reflection (#PCDATA)>
+	<!ELEMENT Loyal-Brave-True (#PCDATA)>
+	<!ELEMENT The-Hunchback-of-Notre-Dame-Movie-Synopsis (#PCDATA)>
+	<!ELEMENT The-Bells-of-Notre-Dame (#PCDATA)>
+	<!ELEMENT God-Help-The-Outcasts (#PCDATA)>
+	<!ELEMENT Humiliation (#PCDATA)>
+	<!ELEMENT Topsy-Turvy (#PCDATA)>
+	<!ELEMENT Out-There (#PCDATA)>
+	<!ELEMENT The-Court-of-Miracles (#PCDATA)>
+
+
+
+	<!ATTLIST Movie-Soundtrack type CDATA #REQUIRED>
+	<!ATTLIST Encanto Year_Released CDATA #REQUIRED>
+	<!ATTLIST Encanto-Movie-Synopsis type CDATA #REQUIRED>
+	<!ATTLIST Moana Year_Released CDATA #REQUIRED>
+	<!ATTLIST Moana-Movie-Synopsis type CDATA #REQUIRED>
+	<!ATTLIST Frozen Year_Released CDATA #REQUIRED>
+	<!ATTLIST Frozen-Movie-Synopsis type CDATA #REQUIRED>
+	<!ATTLIST Tangled Year_Released CDATA #REQUIRED>
+	<!ATTLIST Tangled-Movie-Synopsis type CDATA #REQUIRED>
+	<!ATTLIST Tinker-Bell Year_Released CDATA #REQUIRED>
+	<!ATTLIST Tinker-Bell-Movie-Synopsis-Movie-Synopsis type CDATA #REQUIRED>
+	<!ATTLIST Mulan Year_Released CDATA #REQUIRED>
+	<!ATTLIST Mulan-Movie-Synopsis-Movie-Synopsis type CDATA #REQUIRED>
+	<!ATTLIST The-Hunchback-of-Notre-Dame Year_Released CDATA #REQUIRED>
+	<!ATTLIST The-Hunchback-of-Notre-Dame-Movie-Synopsis-Movie-Synopsis type CDATA #REQUIRED>
+	
+
+
+
+
+
+
+
+]>
+
+
+<Disney-Movie-Soundtrack>
+	<Disney-Movie-List>
+		<Encanto Year_Released="2021">
+			<Movie-Soundtrack type="mp3">
+				<Family-Madrigal >4 mins and 19 sec</Family-Madrigal>
+				<Surface-Pressure>3 mins and 22 sec</Surface-Pressure>
+				<We-Dont-Talk-About-Bruno>3 mins and 41 sec</We-Dont-Talk-About-Bruno>
+				<What-else-can-I-do>2 mins and 58 sec</What-else-can-I-do>
+				<All-of-You>4 mins and 40 sec</All-of-You>
+				<Waiting-on-a-Miracle>2 mins and 49 sec</Waiting-on-a-Miracle>
+			</Movie-Soundtrack>
+			<Encanto-Movie-Synopsis type="text">
+				<Summaries>Encanto tells the tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift from super strength to the power to heal-every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.—Walt Disney Animation Studios...</Summaries>
+				<Synopsis>While escaping her home from armed conflict, a young Alma Madrigal loses her husband Pedro but saves her triplet infant children Julieta, Pepa, and Bruno. The candle Alma carries with her becomes magical and creates a sentient house, the Casita, for the Madrigals to live in. Years later a village grows, protected by the Casita, and members of the Madrigal family are gifted superhuman abilities they use to help the villagers (The Family Madrigal). However, Bruno's gift of precognition causes multiple conflicts that lead to the family vilifying him, while Mirabel, Julieta's youngest daughter, is treated differently for having no gift at all..</Synopsis>
+			</Encanto-Movie-Synopsis>
+		</Encanto>
+		<Moana Year_Released="2016">
+			<Movie-Soundtrack type="mp3">
+				<Tulou-Tagaloa >1 min and 42 sec</Tulou-Tagaloa>
+				<Where-You-Are>3 mins and 32 sec</Where-You-Are>
+				<We-Know-The-Way>2 mins and 35 sec</We-Know-The-Way>
+				<An-Innocent-Warrior>1 min and 38 sec</An-Innocent-Warrior>
+				<How-Far-Ill-Go>2 mins and 35 sec</How-Far-Ill-Go>
+				<Youre-Welcome>2 mins and 43 sec</Youre-Welcome>
+				<Shiny>4 mins and 14 sec</Shiny>
+			</Movie-Soundtrack>				
+			<Moana-Movie-Synopsis type="text">
+				<Summaries>Moana Waialiki is a sea voyaging enthusiast and the only daughter of a chief in a long line of navigators. When her island's fishermen can't catch any fish and the crops fail, she learns that the demigod Maui caused the blight by stealing the heart of the goddess, Te Fiti. The only way to heal the island is to persuade Maui to return Te Fiti's heart, so Moana sets off on an epic journey across the Pacific. The film is based on stories from Polynesian mythology.—Anonymous...</Summaries>
+				<Synopsis>Using a tapa cloth to animate her story, Gramma Tala (Rachel House) tells a group of young children the story of the mother island Te Fiti. With her heart, Te Fiti possesses the power to create life and brings other islands into existence. However, other beings desired the power of her heart but only one was daring enough to take it. The demigod Maui (Dwayne Johnson), using his magical fish hook to shape shift into various creatures, travels to the mother island and steals Te Fiti's heart; a small, green gemstone engraved with a spiral. Without her heart, Te Fiti's island begins to deteriorate and sends forth a terrible darkness. Maui escapes on his boat but is confronted by Te Ka, a demon of lava and fire which rose from the sea like a volcano. Maui boldly engaged Te Ka in battle but was struck from the sky, losing both his hook and Te Fiti's heart to the sea...</Synopsis>
+			</Moana-Movie-Synopsis>
+		</Moana>
+		<Frozen Year_Released="2013">
+			<Movie-Soundtrack type="mp3">
+				<Frozen-Heart >2 mins and 26 sec</Frozen-Heart>
+				<For-the-First-Time-in-Forever>3 mins and 42 sec</For-the-First-Time-in-Forever>
+				<Let-it-Go>3 mins and 38 sec</Let-it-Go>
+				<Do-You-Want-to-Build-a-Snowman>3 mins and 21 sec</Do-You-Want-to-Build-a-Snowman>
+				<Love-Is-an-Open-Door>2 mins and 5 sec</Love-Is-an-Open-Door>
+				<Vuelie>4 mins and 2 sec</Vuelie>
+			</Movie-Soundtrack>
+			<Frozen-Movie-Synopsis type="text">
+				<Summaries>Fearless optimist Anna teams up with rugged mountain man Kristoff and his loyal reindeer Sven and sets off on an epic journey to find her sister Elsa, whose icy powers have trapped the kingdom of Arendelle in eternal winter. Encountering Everest-like conditions, mystical trolls and a hilarious snowman named Olaf, Anna and Kristoff battle the elements in a race to save the kingdom. From the outside Elsa looks poised, regal and reserved, but in reality she lives in fear as she wrestles with a mighty secret: she was born with the power to create ice and snow. It's a beautiful ability, but also extremely dangerous. Haunted by the moment her magic nearly killed her younger sister Anna, Elsa has isolated herself, spending every waking minute trying to suppress her growing powers. Her mounting emotions trigger the magic, accidentally setting off an eternal winter that she can't stop. She fears she's becoming a monster and that no one, not even her sister, can help her.—DeAlan Wilson for ComedyE.com...</Summaries>
+				<Synopsis>In a winter landscape, ice harvesters use saws and hooks to cut blocks of ice from a lake, chanting as they work about how ice is a powerful force that's both beautiful and dangerous (Frozen Heart). They load the ice blocks onto their sled and ride off. A young eight year old boy named Kristoff (Jonathan Groff) works alongside them (not very expertly), accompanied by his reindeer Sven (sounds: also Jonathan Groff). They try to imitate the ice harvesters with a single cubical block of ice and a small child's sled, and follow them away as the Northern Lights fill the night sky...</Synopsis>
+			</Frozen-Movie-Synopsis>
+		</Frozen>
+		<Tangled Year_Released="2010">
+			<Movie-Soundtrack type="mp3">
+				<I-See-The-Light >3 mins and 24 sec</I-See-The-Light>
+				<Mother-Knows-Best>2 mins and 40 sec</Mother-Knows-Best>
+				<Healing-Incantation>0 min and 48 sec</Healing-Incantation>
+				<When-Will-My-Life-Begin>2 mins and 27 sec</When-Will-My-Life-Begin>
+				<Ive-got-a-Dream>3 mins and 21 sec</Ive-got-a-Dream>
+				<Kingdom-Dance>2 mins and 36 sec</Kingdom-Dance>
+			</Movie-Soundtrack>
+			<Tangled-Movie-Synopsis type="text">
+				<Summaries>After receiving the healing powers from a magical flower, the baby Princess Rapunzel is kidnapped from the palace in the middle of the night by Mother Gothel. Mother Gothel knows that the flower's magical powers are now growing within the golden hair of Rapunzel, and to stay young, she must lock Rapunzel in her hidden tower. Rapunzel is now a teenager and her hair has grown to a length of 70-feet. The beautiful Rapunzel has been in the tower her entire life, and she is curious of the outside world. One day, the bandit Flynn Ryder scales the tower and is taken captive by Rapunzel. Rapunzel strikes a deal with the charming thief to act as her guide to travel to the place where the floating lights come from that she has seen every year on her birthday. Rapunzel is about to have the most exciting and magnificent journey of her life.—Douglas Young (the-movie-guy)...</Summaries>
+				<Synopsis>Centuries ago, a droplet of sunlight falls from the sky and lands on Earth. When it touches the ground, a radiant, yellow flower blossoms. This flower is said to be capable of great healing power. One day, an old crone named Gothel (Donna Murphy) finds the flower and discovers that, when she sings a certain song to it (Flower, gleam and glow. Let your power shine. Make the clock reverse, bring back what once was mine, what once was mine), it emits a power that restores her youth. Vain and possessive of the flower, Gothel hides it beneath a woven basket and regularly returns to it to keep herself young....</Synopsis>
+			</Tangled-Movie-Synopsis>
+		</Tangled>
+		<Tinker-Bell Year_Released="2008">
+			<Movie-Soundtrack type="mp3">
+				<To-The-Fairies-They-Draw-Near >3 mins and 30 sec</To-The-Fairies-They-Draw-Near>
+				<Be-True>3 min and 49 sec</Be-True>
+				<Fly-To-Your-Heart>3 mins and 17 sec</Fly-To-Your-Heart>
+				<How-to-Believe>3 mins and 7 sec</How-to-Believe>
+				<Fly-With-Me>3 mins and 23 sec</Fly-With-Me>
+				<Shine>3 mins and 12 sec</Shine>
+			</Movie-Soundtrack>
+			<Tinker-Bell-Movie-Synopsis type="text">
+				<Summaries>Carried by the wind deep in the heart of the enchanting Pixie Hollow in the island of Neverland, the beautiful newly born fairy, Tinker Bell, discovers that her destiny as a tinker is to repair all sorts of things under the ever-watchful Queen Clarion. However, as the rebellious Tinker Bell yearns to fly along with her sisters, Iridessa, Silvermist, Rosetta, and Fawn to the mainland, she will soon realise that the arrival of spring requires special skills, hard work, and above all, faith. Will a dash of pixie dust help Tinker Bell stay true to herself?—Nick Riganas...</Summaries>
+				<Synopsis>Enter the magical world of fairies and meet the enchanting creatures of Pixie Hollow, who nurture nature and bring about the change of the seasons. Changing the colors of the leaves, moving a sunbeam to melt snow, waking animals from their winter slumber, or giving a patch of sproutlings a sprinkle of water are all within the realm of these seasonal specialists. Tinker Bell thinks her fairy talent as a tinker isn't as special or important as the other fairies' talents. But when Tink tries to change who she is, she creates nothing but disaster! With encouragement from her friends Rosetta, Silvermist, Fawn and Iridessa, Tink learns the key to solving her problems lies in her unique tinker abilities and discovers that when she's true to herself, magical things can happen...</Synopsis>
+			</Tinker-Bell-Movie-Synopsis>
+		</Tinker-Bell>
+		<Mulan Year_Released="1998">
+			<Movie-Soundtrack type="mp3">
+				<Honor-To-Us-All >3 mins and 0 sec</Honor-To-Us-All>
+				<True-To-Your-Heart>4 min and 16 sec</True-To-Your-Heart>
+				<A-Girl-Worth-Fighting-For>2 mins and 22 sec</A-Girl-Worth-Fighting-For>
+				<Ill-Make-a-Man-Out-of-You>3 mins and 23 sec</Ill-Make-a-Man-Out-of-You>
+				<Reflection>2 mins and 3 sec</Reflection>
+				<Loyal-Brave-True>2 mins and 49 sec</Loyal-Brave-True>
+			</Movie-Soundtrack>
+			<Mulan-Movie-Synopsis type="text">
+				<Summaries>This retelling of the old Chinese folktale is about the story of a young Chinese maiden who learns that her weakened and lame father is to be called up into the army in order to fight the invading Huns. Knowing that he would never survive the rigours of war in his state, she decides to disguise herself and join in his place. Unknown to her, her ancestors are aware of this and to prevent it, they order a tiny disgraced dragon, Mushu to join her in order to force her to abandon her plan. He agrees, but when he meets Mulan, he learns that she cannot be dissuaded and so decides to help her in the perilous times ahead.—Kenneth Chisholm...</Summaries>
+				<Synopsis>During the Han Dynasty in ancient China, the legendary Great Wall fails to keep out the notorious Hun army and their ruthless leader, Shan Yu (Miguel Ferrer). The alarm is raised, and the Emperor (Pat Morita) entrusts General Li (James Shigeta) with mobilizing an army to protect China. The wise Emperor reminds the general that one man may be the difference between victory and defeat...</Synopsis>
+			</Mulan-Movie-Synopsis>
+		</Mulan>
+		<The-Hunchback-of-Notre-Dame Year_Released="1995">
+			<Movie-Soundtrack type="mp3">
+				<The-Bells-of-Notre-Dame >3 mins and 30 sec</The-Bells-of-Notre-Dame>
+				<God-Help-The-Outcasts>3 min and 49 sec</God-Help-The-Outcasts>
+				<Humiliation>3 mins and 17 sec</Humiliation>
+				<Topsy-Turvy>3 mins and 7 sec</Topsy-Turvy>
+				<Out-There>3 mins and 23 sec</Out-There>
+				<The-Court-of-Miracles>3 mins and 12 sec</The-Court-of-Miracles>
+			</Movie-Soundtrack>
+			<The-Hunchback-of-Notre-Dame-Movie-Synopsis type="text">
+				<Summaries>EIn 15th-century Paris, Clopin the puppeteer tells the story of Quasimodo, the misshapen but gentle-souled bell ringer of Notre Dame, who was nearly killed as a baby by Claude Frollo, the Minister of Justice. But Frollo was forced by the Archdeacon of Notre Dame to raise Quasimodo as his own. Now a young man, Quasimodo is hidden from the world by Frollo in the belltower of the cathedral. But during the Festival of Fools, Quasimodo, cheered on by his gargoyle friends Victor, Hugo, and Laverne, decides to take part in the festivities, where he meets the lovely gypsy girl Esmeralda and the handsome soldier Phoebus. The three of them find themselves ranged against Frollo's cruelty and his attempts to destroy the home of the gypsies, the Court of Miracles. And Quasimodo must desperately defend both Esmeralda and the very cathedral of Notre Dame.—Kathy Li...</Summaries>
+				<Synopsis>Twenty years ago, on a cold winter night, four Gypsies sneaked into Paris on a hired riverboat; the Gypsies were persecuted in Paris (and possibly all over France), so the only way to enter the city without being arrested was to sneak in. These particular Gypsies consisted of two men, one woman, and her child (it is implied that one of the men was the husband and father to the last two mentioned). Upon landing, however, the group was ambushed and arrested...</Synopsis>
+			</The-Hunchback-of-Notre-Dame-Movie-Synopsis>
+		</The-Hunchback-of-Notre-Dame>	
+	</Disney-Movie-List>
+</Disney-Movie-Soundtrack>
+
+
+

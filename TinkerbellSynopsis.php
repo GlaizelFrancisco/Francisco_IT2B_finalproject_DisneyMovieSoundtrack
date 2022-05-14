@@ -70,7 +70,6 @@ h3 { text-align: left;
 <body>
 <h1>Tinker Bell Movie Synopsis</h1>
 <h2>-"Your talent makes you who you are, you should be proud of it." </h2>
-</html>
 <style type="text/css">
     header{ background-color: #758b42;
     }
@@ -91,7 +90,7 @@ h3 { text-align: left;
                     <div class="col-lg-12 text-left">
 
 </style>
-<html>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -158,7 +157,6 @@ h3 { text-align: left;
 </div>
 
 </body>
-</html>
 
 
         <?php 
